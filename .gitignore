@@ -1,0 +1,40 @@
+﻿# Python virtual environments
+.venv/
+.venv-1/
+.venv-2/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FaceNav local data
+*.db
+*.sqlite
+*.sqlite3
